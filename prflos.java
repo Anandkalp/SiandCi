@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 class PorL
 {
@@ -32,3 +33,4 @@ public static void main(String args[])
 	}
 }
 
+	
